@@ -1,0 +1,355 @@
+***********************************************
+*=============================================*
+*=============CODICE=TRIBUTARIO===============*
+*=============================================*
+*|||||articoli da : 1|||||||||||||||||||||||||*
+*|||||||||||||||a : 17-bis||||||||||||||||||||*
+*+++++++++++++++++++++++++++++++++++++++++++++*
+***********************************************
+
+//documento appartenente a:_______________________________________
+//presso la scuola: ITIS "Copernico-Carpeggiani", Ferrara
+
+Capo I 
+
+giudice tributario e i usoi ausiliari
+
+Art. 1
+
+Gli organi della giurisdizione tributaria
+
+1. La giurisdizione tributaria è esercitata dalle commissioni tributarie provinciali e dalle commissioni tributarie regionali di cui all'art. 1 del D.Lgs. 31 dicembre 1992, n. 545.
+
+2. I giudici tributari applicano le norme del presente decreto e, per quanto da esse non disposto e con esse compatibili, le norme del codice di procedura civile. 
+
+Art. 2
+
+Oggetto della giurisdizione tributaria 
+
+1. Appartengono alla giurisdizione tributaria tutte le controversie aventi ad oggetto i tributi di ogni genere e specie comunque denominati, compresi quelli regionali, provinciali e comunali e il contributo per il Servizio sanitario nazionale, le sovrimposte e le addizionali, le relative sanzioni nonché gli interessi e ogni altro accessorio. Restano escluse dalla giurisdizione tributaria soltanto le controversie riguardanti gli atti della esecuzione forzata tributaria successivi alla notifica della cartella di pagamento e, ove previsto, dell'avviso di cui all'articolo 50 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, per le quali continuano ad applicarsi le disposizioni del medesimo decreto del Presidente della Repubblica. 
+
+2. Appartengono altresì alla giurisdizione tributaria le controversie promosse dai singoli possessori concernenti l'intestazione, la delimitazione, la figura, l'estensione, il classamento dei terreni e la ripartizione dell'estimo fra i compossessori a titolo di promiscuità di una stessa particella, nonché le controversie concernenti la consistenza, il classamento delle singole unità immobiliari urbane e l'attribuzione della rendita catastale. Appartengono alla giurisdizione tributaria anche le controversie attinenti l’imposta o il canone comunale sulla pubblicità e il diritto sulle pubbliche affissioni. 
+
+3. Il giudice tributario risolve in via incidentale ogni questione da cui dipende la decisione delle controversie rientranti nella propria giurisdizione, fatta eccezione per le questioni in materia di querela di falso e sullo stato o la capacità delle persone, diversa dalla capacità di stare in giudizio. 
+
+Art. 3
+
+Difetto di giurisdizione
+
+1. Il difetto di giurisdizione delle commissioni tributarie è rilevato, anche d'ufficio, in ogni stato e grado del processo.
+
+2. È ammesso il regolamento preventivo di giurisdizione previsto dall'art.41, primo comma, del codice di procedura civile.
+
+Art. 4
+
+Competenza per territorio
+
+1. Le commissioni tributarie provinciali sono competenti per le controversie proposte nei confronti degli enti impositori, degli agenti della riscossione e dei soggetti iscritti all'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, che hanno sede nella loro circoscrizione. Se la controversia è proposta nei confronti di articolazioni dell'Agenzia delle Entrate, con competenza su tutto o parte del territorio nazionale, individuate con il regolamento di amministrazione di cui all'articolo 71 del decreto legislativo 30 luglio 1999, n. 300, è competente la commissione tributaria provinciale nella cui circoscrizione ha sede l'ufficio al quale spettano le attribuzioni sul rapporto controverso. (1)
+
+2. Le commissioni tributarie regionali sono competenti per le impugnazioni avverso le decisioni delle commissioni tributarie provinciali, che hanno sede nella loro circoscrizione.
+
+(1) Comma, da ultimo, modificato dall’articolo 9, comma 1, lettera b), del D.lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+
+Art. 5
+
+Incompetenza
+
+1. La competenza delle commissioni tributarie è inderogabile. 
+
+2. L' incompetenza della commissione tributaria è rilevabile, anche d'ufficio, soltanto nel grado al quale il vizio si riferisce. 
+
+3. La sentenza della commissione tributaria che dichiara la propria incompetenza rende incontestabile l'incompetenza dichiarata e la competenza della commissione tributaria in essa indicata, se il processo viene riassunto a norma del comma 5. 
+
+4. Non si applicano le disposizioni del codice di procedura civile sui regolamenti di competenza. 
+
+5. La riassunzione del processo davanti alla commissione tributaria dichiarata competente deve essere effettuata a istanza di parte nel termine fissato nella sentenza o in mancanza nel termine di sei mesi dalla comunicazione della sentenza stessa. Se la riassunzione avviene nei termini suindicati il processo continua davanti alla nuova commissione, altrimenti si estingue.
+
+Art. 6
+
+Astensione e ricusazione dei componenti delle commissioni tributarie
+
+1. L'astensione e la ricusazione dei componenti delle commissioni tributarie sono disciplinate dalle disposizioni del codice di procedura civile in quanto applicabili. 
+
+2. Il giudice tributario ha l'obbligo di astenersi e può essere ricusato anche nel caso di cui all'art. 13, comma 3, e in ogni caso in cui abbia o abbia avuto rapporti di lavoro autonomo ovvero di collaborazione con una delle parti. 
+
+3. Sulla ricusazione decide il collegio al quale appartiene il componente della commissione tributaria ricusato, senza la sua partecipazione e con l'integrazione di altro membro della stessa commissione designato dal suo presidente.
+
+Art. 7
+
+Poteri delle commissioni tributarie
+
+1. Le commissioni tributarie, ai fini istruttori e nei limiti dei fatti dedotti dalle parti, esercitano tutte le facoltà di accesso, di richiesta di dati, di informazioni e chiarimenti conferite agli uffici tributari ed all'ente locale da ciascuna legge d'imposta.
+
+2. Le commissioni tributarie, quando occorre acquisire elementi conoscitivi di particolare complessità, possono richiedere apposite relazioni ad organi tecnici dell'amministrazione dello Stato o di altri enti pubblici compreso il Corpo della Guardia di finanza, ovvero disporre consulenza tecnica. I compensi spettanti ai consulenti tecnici non possono eccedere quelli previsti dalla legge 8 luglio 1980, n. 319 , e successive modificazioni e integrazioni.
+
+[3. È sempre data alle commissioni tributarie facoltà di ordinare alle parti il deposito di documenti ritenuti necessari per la decisione della controversia.]
+
+4. Non sono ammessi il giuramento e la prova testimoniale.
+
+5. Le commissioni tributarie, se ritengono illegittimo un regolamento o un atto generale rilevante ai fini della decisione, non lo applicano, in relazione all'oggetto dedotto in giudizio, salva l' eventuale impugnazione nella diversa sede competente.
+
+     ____________
+
+    Avviso di accertamento? Annullato con la dichiarazione giurata di un terzo, Cassazione, sez. tributaria, sentenza 27 maggio 2020, n. 9903
+
+    Cassazione civile, sez. VI-T, ordinanza 16 marzo 2018 n° 6616, Cassazione Civile, sez. tributaria, sentenza 13 gennaio 2017 n° 701
+
+Art. 8
+
+Errore sulla norma tributaria
+
+1. La commissione tributaria dichiara non applicabili le sanzioni non penali previste dalle leggi tributarie quando la violazione è giustificata da obiettive condizioni di incertezza sulla portata e sull'ambito di applicazione delle disposizioni alle quali si riferisce.
+______________
+Giurisprudenza
+
+    Incertezza normativa? Sanzioni vanno comunque applicate, Cassazione Civile, Sezione Tributaria, ordinanza n. 24707 del 3 ottobre 2019. 
+    Sanzioni tributarie inapplicabili per incertezza oggettiva della norma, Cassazione civile, sez. tributaria, sentenza 11 aprile 2019, n. 10126. 
+    Cassazione civile, sez. tributaria, sentenza 12 luglio 2018 n° 18405. 
+
+Art. 9
+
+Organi di assistenza alle commissioni tributarie
+
+1. Il personale dell'ufficio di segreteria assiste la commissione tributaria secondo le disposizioni del codice di procedura civile concernenti il cancelliere. 
+
+2. Le attività dell'ufficiale giudiziario in udienza sono disimpegnate dal personale ausiliario addetto alla segreteria. 
+
+Capo II 
+
+Delle parti e della loro rappresentanza e assistenza in giudizio
+
+Art. 10
+
+Le parti
+
+1. Sono parti nel processo dinanzi alle commissioni tributarie oltre al ricorrente, l'ufficio dell'Agenzia delle entrate e dell'Agenzia delle dogane e dei monopoli di cui al decreto legislativo 30 luglio 1999, n. 300, gli altri enti impositori, l'agente della riscossione ed i soggetti iscritti nell'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, che hanno emesso l'atto impugnato o non hanno emesso l'atto richiesto. Se l'ufficio è un'articolazione dell'Agenzia delle entrate, con competenza su tutto o parte del territorio nazionale, individuata con il regolamento di amministrazione di cui all'articolo 71 del decreto legislativo 30 luglio 1999, n. 300, è parte l'ufficio al quale spettano le attribuzioni sul rapporto controverso. (1)
+
+(1) Articolo modificato dall’articolo 28, comma 2, del D.L. 31 maggio 2010, n. 78, convertito con modificazioni dalla Legge 30 luglio 2010, n. 122 e successivamente sostituito dall’articolo 9, comma 1, lettera c), del D.lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+
+Art. 11
+
+Capacità di stare in giudizio
+
+1. Le parti diverse da quelle indicate nei commi 2 e 3 possono stare in giudizio anche mediante procuratore generale o speciale. La procura speciale, se conferita al coniuge e ai parenti o affini entro il quarto grado ai soli fini della partecipazione all'udienza pubblica, può risultare anche da scrittura privata non autenticata.
+
+2. L'ufficio dell'Agenzia delle entrate e dell'Agenzia delle dogane e dei monopoli di cui al decreto legislativo 30 luglio 1999, n. 300 nonché dell'agente della riscossione, nei cui confronti è proposto il ricorso, sta in giudizio direttamente o mediante la struttura territoriale sovraordinata. Stanno altresì in giudizio direttamente le cancellerie o segreterie degli uffici giudiziari per il contenzioso in materia di contributo unificato. (1)
+
+3. L'ente locale nei cui confronti è proposto il ricorso può stare in giudizio anche mediante il dirigente dell'ufficio tributi, ovvero, per gli enti locali privi di figura dirigenziale, mediante il titolare della posizione organizzativa in cui è collocato detto ufficio.
+
+[3-bis. Le disposizioni di cui ai commi precedenti si applicano anche agli uffici giudiziari per il contenzioso in materia di contributo unificato davanti alle Commissioni tributarie provinciali.]
+
+(1) Comma sostituito dall'articolo 9, comma 1, lettera d), numero 1), del D.lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016. 
+
+    _____________
+
+Giurisprudenza
+
+    Agenzia Entrate-Riscossione non può farsi difendere da avvocati esterni, Cassazione civile, sez. tributaria, sentenza 09 novembre 2018 n° 28684. 
+
+Art. 12
+
+Assistenza tecnica (1)
+
+1. Le parti, diverse dagli enti impositori, dagli agenti della riscossione e dai soggetti iscritti nell'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, devono essere assistite in giudizio da un difensore abilitato.
+
+2. Per le controversie di valore fino a tremila euro le parti possono stare in giudizio senza assistenza tecnica. Per valore della lite si intende l'importo del tributo al netto degli interessi e delle eventuali sanzioni irrogate con l'atto impugnato; in caso di controversie relative esclusivamente alle irrogazioni di sanzioni, il valore è costituito dalla somma di queste.
+
+3. Sono abilitati all'assistenza tecnica, se iscritti nei relativi albi professionali o nell'elenco di cui al comma 4:
+
+a) gli avvocati;
+
+b) i soggetti iscritti nella Sezione A commercialisti dell'Albo dei dottori commercialisti e degli esperti contabili;
+
+c) i consulenti del lavoro;
+
+d) i soggetti di cui all'articolo 63, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600;
+
+e) i soggetti già iscritti alla data del 30 settembre 1993 nei ruoli di periti ed esperti tenuti dalle camere di commercio, industria, artigianato e agricoltura per la sub-categoria tributi, in possesso di diploma di laurea in giurisprudenza o in economia e commercio o equipollenti o di diploma di ragioniere limitatamente alle materie concernenti le imposte di registro, di successione, i tributi locali, l'IVA, l'IRPEF, l'IRAP e l'IRES;
+
+f) i funzionari delle associazioni di categoria che, alla data di entrata in vigore del decreto legislativo 31 dicembre 1992, n. 545, risultavano iscritti negli elenchi tenuti dalle Intendenze di finanza competenti per territorio, ai sensi dell'ultimo periodo dell'articolo 30, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636;
+
+g) i dipendenti delle associazioni delle categorie rappresentate nel Consiglio nazionale dell'economia e del lavoro (C.N.E.L.) e i dipendenti delle imprese, o delle loro controllate ai sensi dell'articolo 2359 del codice civile, primo comma, numero 1), limitatamente alle controversie nelle quali sono parti, rispettivamente, gli associati e le imprese o loro controllate, in possesso del diploma di laurea magistrale in giurisprudenza o in economia ed equipollenti, o di diploma di ragioneria e della relativa abilitazione professionale;
+
+h) i dipendenti dei centri di assistenza fiscale (CAF) di cui all'articolo 32 del decreto legislativo 9 luglio 1997, n. 241, e delle relative società di servizi, purché in possesso di diploma di laurea magistrale in giurisprudenza o in economia ed equipollenti, o di diploma di ragioneria e della relativa abilitazione professionale, limitatamente alle controversie dei propri assistiti originate da adempimenti per i quali il CAF ha prestato loro assistenza.
+
+4. L'elenco dei soggetti di cui al comma 3, lettere d), e), f), g) ed h), è tenuto dal Dipartimento delle finanze del Ministero dell'economia e delle finanze che vi provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente senza nuovi o maggiori oneri a carico del bilancio dello Stato. Con decreto del Ministro dell'economia e delle finanze, sentito il Ministero della giustizia, emesso ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono disciplinate le modalità di tenuta dell'elenco, nonché i casi di incompatibilità, diniego, sospensione e revoca della iscrizione anche sulla base dei principi contenuti nel codice deontologico forense. L'elenco è pubblicato nel sito internet del Ministero dell'economia e delle finanze.
+
+5. Per le controversie di cui all'articolo 2, comma 2, primo periodo, sono anche abilitati all'assistenza tecnica, se iscritti nei relativi albi professionali:
+
+a) gli ingegneri;
+
+b) gli architetti;
+
+c) i geometri;
+
+d) i periti industriali;
+
+e) i dottori agronomi e forestali;
+
+f) gli agrotecnici;
+
+g) i periti agrari.
+
+6. Per le controversie relative ai tributi doganali sono anche abilitati all'assistenza tecnica gli spedizionieri doganali iscritti nell'apposito albo.
+
+7. Ai difensori di cui ai commi da 1 a 6 deve essere conferito l'incarico con atto pubblico o con scrittura privata autenticata od anche in calce o a margine di un atto del processo, nel qual caso la sottoscrizione autografa è certificata dallo stesso incaricato. All'udienza pubblica l'incarico può essere conferito oralmente e se ne dà atto a verbale.
+
+8. Le Agenzie delle entrate, delle dogane e dei monopoli di cui al decreto legislativo 30 luglio 1999, n. 300, possono essere assistite dall'Avvocatura dello Stato.
+
+9. I soggetti in possesso dei requisiti richiesti nei commi 3, 5 e 6 possono stare in giudizio personalmente, ferme restando le limitazioni all'oggetto della loro attività previste nei medesimi commi.
+
+10. Si applica l'articolo 182 del codice di procedura civile ed i relativi provvedimenti sono emessi dal presidente della commissione o della sezione o dal collegio.
+
+(1) Articolo, da ultimo modificato, dall’articolo 9, comma 1, lettera e), del D.lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+
+Art. 13 
+
+Assistenza tecnica gratuita
+
+[1.  E' assicurata innanzi alle commissioni tributarie ai non abbienti l'assistenza tecnica gratuita, secondo le disposizioni del R.D. 30 dicembre 1923, n. 3282, e successive modificazioni e integrazioni.
+
+L'attività gratuita di assistenza tecnica è obbligatoria per tutti i soggetti indicati nell'art. 12, comma 2.
+
+2.  E' costituita presso ogni commissione tributaria la commissione per l'assistenza tecnica gratuita, composta da un presidente di sezione, che la presiede, da un giudice tributario designato dal presidente della commissione, nonché da tre iscritti negli albi o elenchi di cui all' art. 12, comma 2, designati al principio di ogni anno a turno da ciascun ordine professionale del capoluogo in cui ha sede la commissione e dalla direzione regionale delle entrate. Per ciascun componente è designato anche un membro supplente. Al presidente e ai componenti non spetta alcun compenso. Esercita le funzioni di segretario un funzionario dell' ufficio di segreteria della commissione tributaria.
+
+3.  Le commissioni per l'assistenza tecnica gratuita si pronunziano in unico grado e i giudici tributari che ne fanno parte hanno l'obbligo di astenersi nei processi riguardanti controversie da loro esaminate quali componenti di tali commissioni.
+
+4.  La sorveglianza di cui all'art. 4, primo e secondo comma, del regio decreto 30 dicembre 1923, n. 3282, è esercitata dal presidente della commissione tributaria.] (1)
+
+(1) Articolo abrogato dall’articolo 299 del D.P.R. 30 maggio 2002, n. 115, a decorrere dal 1° luglio 2002.
+
+ 
+
+Art. 14 
+
+Litisconsorzio ed intervento
+
+1.  Se l'oggetto del ricorso riguarda inscindibilmente più soggetti, questi devono essere tutti parte nello stesso processo e la controversia non può essere decisa limitatamente ad alcuni di essi.
+
+2.  Se il ricorso non è stato proposto da o nei confronti di tutti i soggetti indicati nel comma 1 è ordinata l'integrazione del contraddittorio mediante la loro chiamata in causa entro un termine stabilito a pena di decadenza.
+
+3.  Possono intervenire volontariamente o essere chiamati in giudizio i soggetti che, insieme al ricorrente, sono destinatari dell'atto impugnato o parti del rapporto tributario controverso.
+
+4.  Le parti chiamate si costituiscono in giudizio nelle forme prescritte per la parte resistente, in quanto applicabili.
+
+5.  I soggetti indicati nei commi 1 e 3 intervengono nel processo notificando apposito atto a tutte le parti e costituendosi nelle forme di cui al comma precedente.
+
+6.  Le parti chiamate in causa o intervenute volontariamente non possono impugnare autonomamente l'atto se per esse al momento della costituzione è già decorso il termine di decadenza.
+
+
+Riscossione a mezzo ruolo: non c'è litisconsorzio necessario tra creditore e concessionario, Commissione Tributaria Regionale Puglia, sez. I, sentenza 26 agosto 2020, n. 1654
+
+Art. 15 
+
+Spese del giudizio
+
+1.  La parte soccombente è condannata a rimborsare le spese del giudizio che sono liquidate con la sentenza. (1)
+
+2.  Le spese di giudizio possono essere compensate in tutto o in parte dalla commissione tributaria soltanto in caso di soccombenza reciproca o qualora sussistano gravi ed eccezionali ragioni che devono essere espressamente motivate. (2)
+
+2-bis.  Si applicano le disposizioni di cui all'articolo 96, commi primo e terzo, del codice di procedura civile. (3)
+
+2-ter.  Le spese di giudizio comprendono, oltre al contributo unificato, gli onorari e i diritti del difensore, le spese generali e gli esborsi sostenuti, oltre il contributo previdenziale e l'imposta sul valore aggiunto, se dovuti. (2)
+
+2-quater.   Con l'ordinanza che decide sulle istanze cautelari la commissione provvede sulle spese della relativa fase. La pronuncia sulle spese conserva efficacia anche dopo il provvedimento che definisce il giudizio, salvo diversa statuizione espressa nella sentenza di merito. (2)
+
+2-quinquies.  I compensi agli incaricati dell'assistenza tecnica sono liquidati sulla base dei parametri previsti per le singole categorie professionali. Agli iscritti negli elenchi di cui all'articolo 12, comma 4, si applicano i parametri previsti per i dottori commercialisti e gli esperti contabili. (2)
+
+2-sexies.  Nella liquidazione delle spese a favore dell'ente impositore, dell'agente della riscossione e dei soggetti iscritti nell'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, se assistiti da propri funzionari, si applicano le disposizioni per la liquidazione del compenso spettante agli avvocati, con la riduzione del venti per cento dell'importo complessivo ivi previsto. La riscossione avviene mediante iscrizione a ruolo a titolo definitivo dopo il passaggio in giudicato della sentenza. (2)
+
+2-septies.  Nelle controversie di cui all'articolo 17-bis le spese di giudizio di cui al comma 1 sono maggiorate del 50 per cento a titolo di rimborso delle maggiori spese del procedimento. (2)
+
+2-octies.  Qualora una delle parti abbia formulato una proposta conciliativa, non accettata dall'altra parte senza giustificato motivo, restano a carico di quest'ultima le spese del processo ove il riconoscimento delle sue pretese risulti inferiore al contenuto della proposta ad essa effettuata. 
+
+Se è intervenuta conciliazione le spese si intendono compensate, salvo che le parti stesse abbiano diversamente convenuto nel processo verbale di conciliazione.(2)
+
+(1) Comma modificato dall’articolo 9, comma 1, lettera f), numero 1), del D. lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+(2) Comma sostituito dall’articolo 9, comma 1, lettera f), numero 2) del D.Lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+(3) Comma aggiunto dall’art. 12, comma 1, lettera b), del D.L. 8 agosto 1996, n. 437, successivamente modificato dall’articolo 1, comma 32, della legge 24 dicembre 2012, n. 228 ed infine sostituito dall’articolo 9, comma 1, lettera f), numero 2), del D.lgs. 24 settembre 2015, n. 156.
+
+Art. 16 
+
+Comunicazioni e notificazioni
+
+1.  Le comunicazioni sono fatte mediante avviso della segreteria della commissione tributaria consegnato alle parti, che ne rilasciano immediatamente ricevuta, o spedito a mezzo del servizio postale in plico senza busta raccomandato con avviso di ricevimento, sul quale non sono apposti segni o indicazioni dai quali possa desumersi il contenuto dell'avviso. Le comunicazioni agli enti impositori, agli agenti della riscossione ed ai soggetti iscritti nell'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, possono essere fatte mediante trasmissione di elenco in duplice esemplare, uno dei quali, immediatamente datato e sottoscritto per ricevuta, è restituito alla segreteria della commissione tributaria. La segreteria può anche richiedere la notificazione dell'avviso da parte dell'ufficio giudiziario o del messo comunale nelle forme di cui al comma 2. (1)
+
+[1-bis.  Le comunicazioni sono effettuate anche mediante l'utilizzo della posta elettronica certificata, ai sensi del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni. Tra le pubbliche amministrazioni di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, le comunicazioni possono essere effettuate ai sensi dell'articolo 76 del medesimo decreto legislativo. L'indirizzo di posta elettronica certificata del difensore o delle parti è indicato nel ricorso o nel primo atto difensivo; nei procedimenti nei quali la parte sta in giudizio personalmente e il relativo indirizzo di posta elettronica certificata non risulta dai pubblici elenchi la stessa può indicare l'indirizzo di posta al quale vuol ricevere le comunicazioni.] (2)
+
+2.  Le notificazioni sono fatte secondo le norme degli articoli 137 e seguenti del codice di procedura civile, salvo quanto disposto dall' art. 17.
+
+3.  Le notificazioni possono essere fatte anche direttamente a mezzo del servizio postale mediante spedizione dell' atto in plico senza busta raccomandato con avviso di ricevimento, sul quale non sono apposti segni o indicazioni dai quali possa desumersi il contenuto dell'atto, ovvero all'ufficio del Ministero delle finanze ed all' ente locale mediante consegna dell'atto all'impiegato addetto che ne rilascia ricevuta sulla copia.
+
+4.  Gli enti impositori, gli agenti della riscossione e i soggetti iscritti nell'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, provvedono alle notificazioni anche a mezzo del messo comunale o di messo autorizzato dall'amministrazione finanziaria, con l' osservanza delle disposizioni di cui al comma 2. (3)
+
+5.  Qualunque comunicazione o notificazione a mezzo del servizio postale si considera fatta nella data della spedizione; i termini che hanno inizio dalla notificazione o dalla comunicazione decorrono dalla data in cui l'atto è ricevuto.
+
+(1) Comma modificato dall’articolo 37, comma 28, lettera a), del D.L. 4 luglio 2006, n. 223, dall’articolo 39, comma 8, lettera a), numero 1), del D.L. 6 luglio 2011, n. 98 e successivamente dall’art. 9, comma 1, lettera g), numero 1), del D.lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+(2) Comma inserito dall’articolo 39, comma 8, lettera a), numero 2), del D.L. 6 luglio 2011, n. 98, successivamente modificato dall’articolo 49, comma 1, lettera a) del D.L. 24 giugno 2014, n. 90, convertito, con modificazioni, dalla Legge 11 agosto 2014, n. 114 e da ultimo abrogato dall’articolo 9, comma 1, lettera g), numero 2), del D.lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+(3) Comma modificato dall’articolo 9, comma 1, lettera g), numero 3), del D.lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+
+Art. 16-bis 
+
+Comunicazioni, notificazioni e depositi telematici (1) (2)
+
+1. Le comunicazioni sono effettuate anche mediante l'utilizzo della posta elettronica certificata, ai sensi del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni. Tra le pubbliche amministrazioni di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, le comunicazioni possono essere effettuate ai sensi dell'articolo 76 del decreto legislativo n. 82 del 2005. L'indirizzo di posta elettronica certificata del difensore o delle parti è indicato nel ricorso o nel primo atto difensivo. La comunicazione si intende perfezionata con la ricezione avvenuta nei confronti di almeno uno dei difensori della parte. (3)
+
+2. Nelle ipotesi di mancata indicazione dell'indirizzo di posta elettronica certificata del difensore o della parte ed ove lo stesso non sia reperibile da pubblici elenchi, ovvero nelle ipotesi di mancata consegna del messaggio di posta elettronica certificata per cause imputabili al destinatario, le comunicazioni sono eseguite esclusivamente mediante deposito in segreteria della Commissione tributaria. Nei casi di cui al periodo precedente le notificazioni sono eseguite ai sensi dell'articolo 16. (4)
+
+3. Le parti, i consulenti e gli organi tecnici indicati nell'articolo 7, comma 2, notificano e depositano gli atti processuali i documenti e i provvedimenti giurisdizionali esclusivamente con modalità telematiche, secondo le disposizioni contenute nel decreto del Ministro dell'economia e delle finanze 23 dicembre 2013, n. 163, e nei successivi decreti di attuazione. In casi eccezionali, il Presidente della Commissione tributaria o il Presidente di sezione, se il ricorso è già iscritto a ruolo, ovvero il collegio se la questione sorge in udienza, con provvedimento motivato possono autorizzare il deposito con modalità diverse da quelle telematiche. (5)
+
+3-bis. I soggetti che stanno in giudizio senza assistenza tecnica ai sensi dell'articolo 12, comma 2, hanno facoltà di utilizzare, per le notifiche e i depositi, le modalità telematiche indicate nel comma 3, previa indicazione nel ricorso o nel primo atto difensivo dell'indirizzo di posta elettronica certificata al quale ricevere le comunicazioni e le notificazioni. (6)
+
+4. L'indicazione dell'indirizzo di posta elettronica certificata valevole per le comunicazioni e le notificazioni equivale alla comunicazione del domicilio eletto.
+(1) Articolo inserito dall’ art. 9, comma 1, lett. h), D.Lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016, ai sensi di quanto disposto dall'art. 12, comma 1 del medesimo D.Lgs. n. 156/2015.
+(2) Rubrica così sostituita dall’ art. 16, comma 1, lett. a), n. 1), D.L. 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla L. 17 dicembre 2018, n. 136.
+(3) Comma così modificato dall’ art. 16, comma 1, lett. a), n. 2), D.L. 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla L. 17 dicembre 2018, n. 136.
+(4) Comma così sostituito dall’ art. 16, comma 1, lett. a), n. 3), D.L. 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla L. 17 dicembre 2018, n. 136.
+(5) Comma così sostituito dall’ art. 16, comma 1, lett. a), n. 4), D.L. 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla L. 17 dicembre 2018, n. 136; per l’applicazione di tale disposizione vedi l’ art. 16, comma 5, del medesimo D.L. n. 119/2018. 
+(6) Comma inserito dall’ art. 16, comma 1, lett. a), n. 5), D.L. 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla L. 17 dicembre 2018, n. 136; per l’applicazione di tale disposizione vedi l’ art. 16, comma 5, del medesimo D.L. n. 119/2018.
+
+Art. 17 
+
+Luogo delle comunicazioni e notificazioni
+
+1.  Le comunicazioni e le notificazioni sono fatte, salva la consegna in mani proprie, nel domicilio eletto o, in mancanza, nella residenza o nella sede dichiarata dalla parte all' atto della sua costituzione in giudizio. Le variazioni del domicilio o della residenza o della sede hanno effetto dal decimo giorno successivo a quello in cui sia stata notificata alla segreteria della commissione e alle parti costituite la denuncia di variazione.
+
+2.  L'indicazione della residenza o della sede e l' elezione del domicilio hanno effetto anche per i successivi gradi del processo.
+
+3.  Se mancano l'elezione di domicilio o la dichiarazione della residenza o della sede nel territorio dello Stato o se per la loro assoluta incertezza la notificazione o la comunicazione degli atti non è possibile, questi sono comunicati o notificati presso la segreteria della commissione.
+
+[3-bis.  In caso di mancata indicazione dell'indirizzo di posta elettronica certificata ovvero di mancata consegna del messaggio di posta elettronica certificata per cause imputabili al destinatario, le comunicazioni sono eseguite esclusivamente mediante deposito in segreteria della Commissione tributaria.] (1)
+
+(1) Comma inserito dall’articolo 49, comma 1, lettera b) del D.L. 24 giugno 2014, n. 90, convertito, con modificazioni, dalla Legge 11 agosto 2014, n. 114 e successivamente abrogato dall’articolo 9, comma 1, lettera i), del D.lgs 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+
+Art. 17-bis.
+
+Il reclamo e la mediazione (1)
+
+1.  Per le controversie di valore non superiore a cinquantamila euro, il ricorso produce anche gli effetti di un reclamo e può contenere una proposta di mediazione con rideterminazione dell'ammontare della pretesa. Il valore di cui al periodo precedente è determinato secondo le disposizioni di cui all'articolo 12, comma 2. Le controversie di valore indeterminabile non sono reclamabili, ad eccezione di quelle di cui all'articolo 2, comma 2, primo periodo. (2)
+
+1-bis. Sono esclusi dalla mediazione i tributi costituenti risorse proprie tradizionali di cui all'articolo 2, paragrafo 1, lettera a), della decisione 2014/335/UE, Euratom del Consiglio, del 26 maggio 2014. (3)
+
+2.  Il ricorso non è procedibile fino alla scadenza del termine di novanta giorni dalla data di notifica, entro il quale deve essere conclusa la procedura di cui al presente articolo. Si applica la sospensione dei termini processuali nel periodo feriale. (4)
+
+3.  Il termine per la costituzione in giudizio del ricorrente decorre dalla scadenza del termine di cui al comma 2. Se la Commissione rileva che la costituzione è avvenuta in data anteriore rinvia la trattazione della causa per consentire l'esame del reclamo.
+
+4.  Le Agenzie delle entrate, delle dogane e dei monopoli di cui al decreto legislativo 30 luglio 1999, n. 300, provvedono all'esame del reclamo e della proposta di mediazione mediante apposite strutture diverse ed autonome da quelle che curano l'istruttoria degli atti reclamabili. Per gli altri enti impositori la disposizione di cui al periodo precedente si applica compatibilmente con la propria struttura organizzativa.
+
+5.  L'organo destinatario, se non intende accogliere il reclamo o l'eventuale proposta di mediazione, formula d'ufficio una propria proposta avuto riguardo all'eventuale incertezza delle questioni controverse, al grado di sostenibilità della pretesa e al principio di economicità dell'azione amministrativa. L'esito del procedimento rileva anche per i contributi previdenziali e assistenziali la cui base imponibile è riconducibile a quella delle imposte sui redditi.
+
+6.  Nelle controversie aventi ad oggetto un atto impositivo o di riscossione, la mediazione si perfeziona con il versamento, entro il termine di venti giorni dalla data di sottoscrizione dell'accordo tra le parti, delle somme dovute ovvero della prima rata. Per il versamento delle somme dovute si applicano le disposizioni, anche sanzionatorie, previste per l'accertamento con adesione dall'articolo 8 del decreto legislativo 19 giugno 1997, n. 218. Nelle controversie aventi per oggetto la restituzione di somme la mediazione si perfeziona con la sottoscrizione di un accordo nel quale sono indicate le somme dovute con i termini e le modalità di pagamento. L'accordo costituisce titolo per il pagamento delle somme dovute al contribuente.
+
+7.  Le sanzioni amministrative si applicano nella misura del trentacinque per cento del minimo previsto dalla legge. Sulle somme dovute a titolo di contributi previdenziali e assistenziali non si applicano sanzioni e interessi.
+
+8.  La riscossione e il pagamento delle somme dovute in base all'atto oggetto di reclamo sono sospesi fino alla scadenza del termine di cui al comma 2, fermo restando che in caso di mancato perfezionamento della mediazione sono dovuti gli interessi previsti dalle singole leggi d'imposta.
+
+9.  Le disposizioni di cui al presente articolo si applicano, in quanto compatibili, anche agli agenti della riscossione ed ai soggetti iscritti nell'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446.
+
+10.  Il presente articolo non si applica alle controversie di cui all'articolo 47-bis.
+
+(1) Articolo aggiunto dall’articolo 39, comma 9, del D.L. 6 luglio 2011 n. 98, successivamente modificato dall’articolo 1, comma 611, lettera a), della Legge 27 dicembre 2013, n. 147 e da ultimo sostituito dall’articolo 9, comma 1, lettera l), del D.lgs. 24 settembre 2015, n. 156, a decorrere dal 1° gennaio 2016.
+
+(2) Comma modificato dall'articolo 10, comma 1, del D.L. 24 aprile 2017, n. 50, convertito, con modificazioni, dalla L. 21 giugno 2017, n. 96. 
+
+(3) Comma inserito dall’ art. 10, comma 3-bis, D.L. 24 aprile 2017, n. 50, convertito, con modificazioni, dalla L. 21 giugno 2017, n. 96.
+(4) Per la sospensione del termine previsto dal presente comma, vedi l’ art. 83, comma 2, D.L. 17 marzo 2020, n. 18, convertito, con modificazioni, dalla L. 24 aprile 2020, n. 27.
